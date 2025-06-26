@@ -96,8 +96,9 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 ## ⭐ GitHub Stats  
 <!-- Update `yourusername` below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=vision-friendly-light" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=vision-friendly-light" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
 ---
