@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suyog Shimpi</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Senior+Software+Developer&animation=fadeIn&type=waving&color=gradient" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Senior+Software+Developer&type=waving&color=gradient&height=80&fontSize=40" alt="banner" />
 </p>
 
 ---
@@ -99,15 +99,15 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" width="45%"  height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula" width="45%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" width="45%"  height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula" width="45%" height="170"/>
 </p>
 
 ---
 
 ## 🛠️ Snake Game for Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Thesuspie/Thesuspie/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Evergreenies/Evergreenies/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Evergreenies/Evergreenies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
