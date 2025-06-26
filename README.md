@@ -95,7 +95,7 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 ## ⭐ GitHub Stats  
 <!-- Update `yourusername` below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula&exclude_repo=data-science-learning"/>
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&description_lines_count=5" width="45%" />
