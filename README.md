@@ -102,7 +102,7 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 
 ---
 
-## 🛠️ Snake Game for Contribution Graph (Optional)
+## 🛠️ Snake Game for Contribution Graph
 ![Snake animation](https://github.com/Evergreenies/Evergreenies/blob/output/github-contribution-grid-snake.svg)
 
 <!--
