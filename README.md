@@ -98,13 +98,14 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
   <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula"/>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
 ---
 
 ## 🛠️ Snake Game for Contribution Graph
-![Snake animation](https://github.com/Evergreenies/Evergreenies/blob/output/github-snake.svg)
+
+![Snake animation](https://github.com/Evergreenies/Evergreenies/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Evergreenies/Evergreenies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
