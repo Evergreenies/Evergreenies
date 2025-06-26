@@ -97,7 +97,7 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 <!-- Update `yourusername` below -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=vision-friendly-light" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=Evergreenies&theme=vision-friendly-light" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=vision-friendly-light" width="45%" />
 </p>
 
 ---
