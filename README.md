@@ -103,7 +103,7 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 ---
 
 ## 🛠️ Snake Game for Contribution Graph
-![Snake animation](https://github.com/Evergreenies/Evergreenies/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Evergreenies/Evergreenies/blob/output/github-snake.svg)
 
 <!--
 **Evergreenies/Evergreenies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
