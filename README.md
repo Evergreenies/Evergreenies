@@ -18,9 +18,9 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 ## 🔗 Profiles
 | Platform        | Link                            |
 |-----------------|----------------------------------|
-| LinkedIn        | [Suyog Shimpi](https://linkedin.com/in/your-linkedin) |
-| StackOverflow   | [suyog‑shimpi](https://stackoverflow.com/users/yourid) |
-| GitHub          | [Suyog Shimpi](https://github.com/yourusername) |
+| LinkedIn        | [Suyog Shimpi](https://www.linkedin.com/in/suyog-shimpi-668285144/) |
+| StackOverflow   | [suyog‑shimpi](https://stackoverflow.com/users/10217732/suyog-shimpi) |
+| GitHub          | [Suyog Shimpi](https://github.com/Evergreenies) |
 
 ---
 
@@ -96,16 +96,11 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
 ## ⭐ GitHub Stats  
 <!-- Update `yourusername` below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-light" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=vision-friendly-light" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=vision-friendly-light" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=Evergreenies&theme=vision-friendly-light" width="45%" />
 </p>
 
 ---
-
-## 🛠️ Snake Game for Contribution Graph (Optional)
-```markdown
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-```
 
 <!--
 **Evergreenies/Evergreenies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
