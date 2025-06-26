@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suyog Shimpi</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Senior+Software+Developer&type=waving&color=gradient&height=80&fontSize=40" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?text=Suyog Shimpi&type=waving&color=gradient&height=80&fontSize=40" alt="banner" />
 </p>
 
 ---
@@ -99,8 +98,15 @@ Highly skilled and results-oriented Software Developer with 7 years of experienc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula"/>
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" width="45%"  height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula" width="45%" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"
+    width="350" height="170"
+    alt="GitHub Stats" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula&hide_border=true&border_radius=4.5&background=0d1117"
+    width="350" height="170"
+    alt="Streak Stats" />
 </p>
 
 ---
