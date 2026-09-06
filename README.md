@@ -1,124 +1,89 @@
+<h1 align="center">Hi 👋, I'm Suyog Shimpi</h1>
+<h3 align="center">Senior Python Engineer · 8+ years · FastAPI · AWS · Docker · GenAI/RAG</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Suyog+Shimpi&animation=fadeIn&type=waving&color=gradient&height=80&fontSize=40" alt="banner" />
+  <a href="https://www.linkedin.com/in/suyog-shimpi-668285144"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suyogshimpi957@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/cd126bbf-90dd-4940-a92b-3e03cf2f265c"><img src="https://img.shields.io/badge/Claude%20Certified%20Architect-Anthropic-6A4CF4?style=flat&logo=anthropic&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Pune,_India-lightgrey?style=flat" />
+  <img src="https://img.shields.io/badge/🌍_Open_to_relocation-Netherlands_/_EU-success?style=flat" />
+  <img src="https://img.shields.io/badge/Visa_sponsorship-Required-orange?style=flat" />
 </p>
 
 ---
 
-### 📫 Contact Me
-- **Email:** [suyogshimpi957@gmail.com](mailto:suyogshimpi957@gmail.com)
+### 👨‍💻 About Me
+
+- 🏗️ Building production **REST APIs, microservices, ETL pipelines, and GenAI (RAG) systems** on AWS
+- 🐍 Ship in **FastAPI, Flask, and asyncio**; deploy via **Docker, GitHub Actions, and GitLab CI** to EC2 and Lambda
+- 🧠 Currently deep in **LangChain, RAG, and Agentic AI** workflows
+- 🎓 Just earned my **Claude Certified Architect** certification from Anthropic ([verify it here](https://www.credly.com/badges/cd126bbf-90dd-4940-a92b-3e03cf2f265c))
+- 🤝 Active open-source contributor — see below
+- 📫 Reach me at **suyogshimpi957@gmail.com**
 
 ---
 
-## 🧠 About Me
-Highly skilled and results-oriented Software Developer with 7 years of experience specializing in Python and Go‑Lang development. Proven expertise in designing and deploying robust microservices, serverless applications, and AI‑powered solutions, including Retrieval Augmented Generation (RAG) and Computer Vision. Adept at leveraging a diverse tech stack including AWS services, Docker, Kubernetes, and various web frameworks to deliver efficient and scalable solutions. Committed to building secure, high‑quality software and contributing to open-source projects.
+### 🧰 Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Web / API**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Cloud (AWS)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 ---
 
-## 🔗 Profiles
-| Platform        | Link                            |
-|-----------------|----------------------------------|
-| LinkedIn        | [Suyog Shimpi](https://www.linkedin.com/in/suyog-shimpi-668285144/) |
-| StackOverflow   | [suyog‑shimpi](https://stackoverflow.com/users/10217732/suyog-shimpi) |
-| GitHub          | [Suyog Shimpi](https://github.com/Evergreenies) |
+### 🌱 Open Source Contributions
+
+- **[authx](https://github.com/yezz123/authx)** — bug fixes and feature contributions to this Python authentication library
+- **[apache/stormcrawler](https://github.com/apache/stormcrawler)** — bug fixes to the distributed web crawler
+- **[llamastack/llama-stack-k8s-operator](https://github.com/llamastack/llama-stack-k8s-operator)** — contributions to a Kubernetes operator for LLM infrastructure
 
 ---
 
-## ⚙️ Core Expertise
-- **APIs:** FastAPI, Flask  
-- **AI/GenAI:** RAG, LangChain, Computer Vision (YOLO), LLMs (Gemini, Groq)  
-- **Containerization:** Docker, Kubernetes  
-- **Serverless & Cloud:** AWS Lambda, EC2, S3, SQS, SNS  
-- **CI/CD & Tools:** GitHub Actions, Snyk, Git  
-- **Databases:** Postgres, Redis, DynamoDB  
+### 📊 GitHub Stats
 
----
-
-## 💼 Work Experience
-
-### **Musikaar** — Senior Software Developer (Feb 2021 – Present)
-- Built Docker-based GitHub Actions for CI/CD  
-- Implemented GenAI-powered test-case generation (LLM + RAG)  
-- Developed transcription/summarization pipelines (Groq AI, Assembly AI)  
-- Engineered real-time video brand detection (YOLO11)  
-- Migrated Lambda Python 2→3, built microservices & RAG apps  
-- Integrated EFK stack, Snyk scanning, and unit testing via GitHub Actions  
-
-### **Turabit Solutions Pvt. Ltd.** — Senior Software Developer (May 2019 – Feb 2021)
-- Developed AI-powered chatbots with Python/Redis  
-- Implemented Windows agent bots and MS Teams bot integration  
-- Built microservices (Flask), caching engines, and system modules  
-
-### **Vermittler IT Consulting Pvt. Ltd.** — Software Engineer (Sep 2018 – May 2019)
-- Created ETL pipelines and HRMS backend using Django/DRF  
-- Managed Postgres → Redshift migrations via REST APIs  
-
----
-
-## 🎓 Education
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| M.Sc. Computer Science | North Maharashtra University, Jalgaon | Jul 2016 – Jun 2018 |
-| B.Sc. Computer Science | S. V. S. Dadasaheb Raval College, Dondaicha | Jun 2013 – May 2016 |
-
----
-
-## 🏅 Certifications & Achievements
-### Courses
-- *Go‑Lang: Learn How To Code* (Udemy)  
-- *REDIS: RU101* (Redis University)  
-### Awards
-- Maximum Productivity Award (2020)  
-- Developer & Employee of the Month at Turabit Solutions
-
----
-
-## 🚀 Tech Stack
-| Category         | Tools/Technologies |
-|------------------|--------------------|
-| **Languages**    | Python, Go‑Lang    |
-| **Frameworks**   | FastAPI, Flask, asyncio, REST APIs |
-| **AI / GenAI**   | LangChain, RAG, YOLO, LLMs (Gemini, Groq), OpenWebUI, Ollama |
-| **Cloud**        | AWS (Lambda, EC2, S3, SQS, SNS) |
-| **Containers**   | Docker, Kubernetes |
-| **CI/CD & Tools**| Git, GitHub Actions, Snyk, Celery, Kafka |
-| **Databases**    | Postgres, Redis, DynamoDB |
-
----
-
-## 🗣 Languages
-- Marathi — Native  
-- Hindi — Conversational  
-- English — Conversational
-
----
-
-## ⭐ GitHub Stats  
-<!-- Update `yourusername` below -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula&exclude_repo=data-science-learning"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evergreenies&layout=compact&langs_count=16&theme=dracula&exclude_repo=data-science-learning"/>
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues&description_lines_count=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Evergreenies&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" width="45%" />
   <img src="https://streak-stats.demolab.com/?user=Evergreenies&theme=dracula&card_height=179" width="45%" />
 </p>
 
 ---
 
-## 🛠️ Snake Game for Contribution Graph
+### 🐍 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/Evergreenies/Evergreenies/output/github-contribution-grid-snake-dark.svg)
 
-<!--
-**Evergreenies/Evergreenies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>Let's connect — always happy to talk Python, FastAPI, and GenAI systems.</i></p>
